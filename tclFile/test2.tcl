@@ -4,3 +4,4 @@ set c [expr $a+$b]
 puts $a
 puts $b
 puts $c
+puts $c
