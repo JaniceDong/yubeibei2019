@@ -1,2 +1,0 @@
-namespace eval china-hicloud {
-}
