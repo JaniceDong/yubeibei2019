@@ -11,5 +11,6 @@ int main(void) {
   } else {
     printf("you have input a no~\n");
   }
+  printf ("it over!");
   return 0;
 }

@@ -9,6 +9,7 @@ int main (void) {
   cc = PI * radius *radius;
   printf ("%lf\n", cc);
   printf ("it is only for test git!");
+  printf ("it is only for test git!");
   
   return 0;
 }
