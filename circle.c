@@ -10,6 +10,7 @@ int main (void) {
   printf ("%lf\n", cc);
   printf ("it is only for test git!");
   printf ("it is only for test git!");
+  printf ("it is only for test git!");
   
   return 0;
 }
